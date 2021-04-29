@@ -1,0 +1,3 @@
+[submodule "Pre_Ampli/Routage_BE_Elec"]
+	path = Pre_Ampli/Routage_BE_Elec
+	url = https://github.com/christalecrouard/Routage_BE_Elec.git
